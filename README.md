@@ -1,11 +1,4 @@
-بالطبع! سأقدم لك ملف `README.md` احترافي باللغتين **الإنجليزية** و**العربية**، يتضمن هيكل المشروع، الأدوات المستخدمة، التفاصيل المهمة، وملخصًا موجزًا في النهاية.
-
----
-
-### ملف `README.md`:
-
-```markdown
-# Pin-Learn
+ب# Pin-Learn
 
 **Pin-Learn** is a comprehensive educational platform designed to provide learning services across multiple fields and educational stages, including specialized functional sciences. The application is built using **Strapi** as the backend for content management and **Next.js** for the frontend, offering a seamless and interactive user experience.
 
